@@ -1,0 +1,12 @@
+#square {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  background-color: color;
+}
+
+#warning-style {
+  color: red;
+  font: 20px;
+}
